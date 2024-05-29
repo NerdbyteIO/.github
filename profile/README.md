@@ -1,4 +1,8 @@
-# Coming SOON Pending logo creation. 
+<div align="center">
+  <img alt="NerdByte Logo" height="550" src="https://github.com/NerdbyteIO/.github/blob/main/NerdByte.png?raw=true /">
+</div>
+
+## WIP - Further information coming soon.
 
 <!--
 
