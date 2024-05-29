@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="NerdByte Logo" height="600" src="https://github.com/NerdbyteIO/.github/blob/main/NerdByte-03.png?raw=true /">
+  <img alt="NerdByte Logo" height="150" src="https://github.com/NerdbyteIO/.github/blob/main/NerdByte-03.png?raw=true /">
 </div>
 
 ## WIP - Further information coming soon.
