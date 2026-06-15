@@ -1,7 +1,7 @@
 <!-- NerdByte Labs Branding -->
 
 <p align="center">
-  <img src="assets/NerdByteLabs.png" alt="NerdByte Labs Banner" width="750">
+  <img src="../assets/NerdByteLabs.png" alt="NerdByte Labs Banner" width="750">
 </p>
 
 <p align="center">
