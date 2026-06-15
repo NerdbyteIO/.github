@@ -1,16 +1,19 @@
-<div align="center">
-  <img alt="NerdByte Logo" height="150" src="https://github.com/NerdbyteIO/.github/blob/main/NerdByte-03.png?raw=true">
-</div>
+<!-- NerdByte Labs Branding -->
 
 <p align="center">
-  <strong>Demystifying technology, one byte at a time.</strong><br>
-  Tutorials, experiments, and hands-on learning for developers and curious minds.
+  <img src="assets/NerdByteLabs.png" alt="NerdByte Labs Banner" width="750">
+</p>
+
+<p align="center">
+  <strong>Demystifying technology, one byte at a time. 🧠⚡</strong><br>
+  Tutorials, experiments, and hands-on learning for developers, builders, and curious minds.
 </p>
 
 <p align="center">
   <a href="https://nerdbyte.io"><img src="https://img.shields.io/badge/Website-NerdByte.io-blue?style=for-the-badge"></a>
-  <a href="https://codeberg.org/nerdbyteio"><img src="https://img.shields.io/badge/Codeberg-New%20Home-2185D0?style=for-the-badge"></a>
-  <img src="https://img.shields.io/badge/Open%20Source-First-green?style=for-the-badge">
+  <a href="https://codeberg.org/nerdbyteio"><img src="https://img.shields.io/badge/Codeberg-Primary%20Home-2185D0?style=for-the-badge&logo=codeberg&logoColor=white"></a>
+  <a href="https://fluxer.gg/7lfryfLa"><img src="https://img.shields.io/badge/Community-Join%20on%20Fluxer-7C3AED?style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/Open%20Source-First-2EA44F?style=for-the-badge">
   <img src="https://img.shields.io/badge/Signed%20Commits-YubiKey%20Secured-success?style=for-the-badge">
 </p>
 
@@ -18,108 +21,108 @@
 
 # 📢 Important Notice
 
-## NerdByte is Moving to Codeberg
+## NerdByte Labs Is Moving to Codeberg
 
-NerdByte’s open-source development is transitioning from GitHub to **Codeberg**.
+NerdByte Labs is transitioning its active open-source development from GitHub to **Codeberg**.
 
-This is not a traditional migration of repositories. Instead, projects are being re-initialized on Codeberg with:
+This is not a traditional repository migration. Projects are being re-initialized on Codeberg with:
 
-- Clean repository histories
-- Newly generated GPG signing keys
-- Hardware-backed authentication using YubiKeys
-- A fresh, verifiable foundation for future development
+- 🧹 Clean repository histories
+- 🔐 Newly generated GPG signing keys
+- 🔑 Hardware-backed authentication using YubiKeys
+- ✅ A fresh, verifiable foundation for future development
 
-This ensures every repository reflects current security practices and long-term maintainability.
+This approach ensures that every repository reflects current security practices, intentional project structure, and long-term maintainability.
 
-👉 **New Home:** https://codeberg.org/nerdbyteio
-
----
-
-# GitHub Mirror Notice
-
-GitHub will remain available, but it will be used strictly as a **read-only mirror**.
-
-- 🔁 Codeberg is the primary development platform  
-- 🧾 All issues, pull requests, and discussions will take place on Codeberg  
-- 📦 GitHub repositories will reflect mirrored commits only  
-- 🚫 No active development or contribution workflows will be managed on GitHub  
-
-If you wish to contribute, open issues, or follow active development, please use Codeberg.
+👉 **Primary Development Home:** [codeberg.org/nerdbyteio](https://codeberg.org/nerdbyteio)
 
 ---
 
-# Why Codeberg?
+# 🪞 GitHub Mirror Notice
 
-NerdByte has always been built around open-source values: learning, transparency, and community-driven development.
+GitHub will remain available strictly as a **read-only mirror**.
 
-This move reflects a long-term commitment to:
+- 🔁 Codeberg is the primary development platform
+- 🧾 Issues, pull requests, and project discussions belong on Codeberg
+- 📦 GitHub repositories will contain mirrored commits only
+- 🚫 Active development and contribution workflows will not be managed on GitHub
 
-- Open and community-first infrastructure
-- Platform independence
-- Verifiable and signed development workflows
-- Reduced reliance on opaque or centralized ecosystems
-- Alignment with free and open-source software principles
-
-Codeberg provides a home that better matches how NerdByte projects are built and maintained going forward.
+To contribute, report an issue, or follow active development, please use Codeberg.
 
 ---
 
-# About NerdByte
+# 🌱 Why Codeberg?
 
-NerdByte began as a personal learning space and evolved into a broader technical hub focused on real-world experimentation and documentation.
+NerdByte Labs is built around open-source values: learning, transparency, independence, and community-driven development.
 
-It spans Linux, networking, cybersecurity, system administration, and software development, with a strong emphasis on hands-on learning.
+Moving to Codeberg reflects a long-term commitment to:
 
-The guiding principle remains simple:
+- 🌍 Open, community-first infrastructure
+- 🧭 Greater platform independence
+- 🔏 Verifiable, signed development workflows
+- 🏗️ Sustainable and maintainable project foundations
+- 🧩 Alignment with free and open-source software principles
 
-> Build things. Understand things. Share what you learn.
-
----
-
-# What You'll Find Here
-
-Projects and repositories typically explore:
-
-- Linux System Administration
-- Networking & Infrastructure
-- Cybersecurity concepts and labs
-- Web development
-- Self-hosting
-- Open-source tooling
-- Technical experiments and learning projects
-
-Everything is designed around practical, applied learning.
+Codeberg provides a home that more closely matches how NerdByte Labs projects are built, maintained, and shared.
 
 ---
 
-# Community
+# 🧪 About NerdByte Labs
 
-A NerdByte community is growing on **Fluxer**, a modern platform for developers and builders.
+NerdByte Labs began as a personal learning space and grew into a hands-on technical lab for exploring, building, documenting, and sharing practical technology.
 
-🌐 Website: https://nerdbyte.io  
-💬 Community: https://fluxer.gg/7lfryfLa  
+The lab focuses on real-world experimentation across Linux, networking, cybersecurity, system administration, infrastructure, self-hosting, and software development.
 
-Here you can:
+Our guiding principle is simple:
 
-- Share projects
-- Ask technical questions
-- Collaborate with others
-- Follow ongoing development work
+> **Build things. Understand things. Share what you learn. Never stop asking questions.**
 
 ---
 
-# Follow the Journey
+# 🧰 What You’ll Find Here
 
-If you’ve followed NerdByte on GitHub, thank you for being part of that chapter.
+Projects and repositories commonly explore:
 
-Going forward, all active development continues on Codeberg.
+- 🐧 Linux and system administration
+- 🌐 Networking and infrastructure
+- 🛡️ Cybersecurity concepts and labs
+- 💻 Web and software development
+- 🏠 Self-hosting and homelab projects
+- 🧩 Open-source tools and workflows
+- 🔬 Technical experiments and learning projects
 
-### 🔗 Links
+Everything is centered on practical, applied learning rather than theory alone.
 
-- Website: https://nerdbyte.io  
-- Codeberg: https://codeberg.org/nerdbyteio  
-- Community: https://fluxer.gg/7lfryfLa  
+---
 
-GitHub remains as a mirrored archive only.
+# 💬 Join the Community
 
-Thank you for being part of the journey.
+The NerdByte Labs community is growing on **Fluxer**, a modern space for developers, builders, homelab enthusiasts, and curious minds.
+
+🌐 **Website:** [nerdbyte.io](https://nerdbyte.io)  
+💬 **Community:** [fluxer.gg/7lfryfLa](https://fluxer.gg/7lfryfLa)
+
+Inside the community, you can:
+
+- 🚀 Share projects and experiments
+- ❓ Ask technical questions
+- 🤝 Collaborate with other builders
+- 🧠 Exchange ideas and lessons learned
+- 📡 Follow ongoing NerdByte Labs development
+
+---
+
+# 🛤️ Follow the Journey
+
+To everyone who followed NerdByte on GitHub: thank you for being part of that chapter. 💙
+
+Going forward, active development continues on Codeberg while GitHub remains available as a mirrored archive.
+
+## 🔗 Links
+
+- 🌐 **Website:** [nerdbyte.io](https://nerdbyte.io)
+- 🏗️ **Codeberg:** [codeberg.org/nerdbyteio](https://codeberg.org/nerdbyteio)
+- 💬 **Community:** [fluxer.gg/7lfryfLa](https://fluxer.gg/7lfryfLa)
+
+Thank you for learning, building, and experimenting with NerdByte Labs. ⚡
+
